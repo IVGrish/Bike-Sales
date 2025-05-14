@@ -12,4 +12,4 @@ The dashboard includes several interactive visualizations and slicers to filter 
   * Customer Age Brackets - Displays bike purchases segmented by age group.
   * Customer Commute - Shows the number of purchases across different commute distances, split by purchase status.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
